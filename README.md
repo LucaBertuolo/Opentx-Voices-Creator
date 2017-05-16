@@ -27,5 +27,5 @@ The resulting Audio file are converted in WAV and it's totally comaptibile with 
 
 
 # Prebuild Voices Pack
-ITA Voices Pack for OpenTx 2.1.9
-https://github.com/LucaBertuolo/Opentx-Voices-Creator/blob/master/OpenTX_TaranisPlus_2.1.9.zip
+- ITA Voices Pack for OpenTx 2.1.9:
+- https://github.com/LucaBertuolo/Opentx-Voices-Creator/blob/master/OpenTX_TaranisPlus_2.1.9.zip
