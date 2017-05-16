@@ -1,10 +1,10 @@
 # Opentx-Voices-Creator
 Requirement:
 - Linux OS
+- Internet conenction
 - gTTS from: https://github.com/pndurette/gTTS
 - CSV voices list from: http://downloads.open-tx.org/2.1/voices/
 - FFMPEG
-- Internet conenction
 
 # How to use:
 In a folder place this script and the CSV voices list listed above and rename it to "voices.csv"
@@ -24,3 +24,8 @@ In a few minutes, you will have a SOUND directory with all the voices for your r
 If you need new voices, you can edit the CSV file in Excel/Calc adding a new line and editing the namefile and the text that you wold that the radio will pronunce, then run the script again
 
 The resulting Audio file are converted in WAV and it's totally comaptibile with OpenTX Standard
+
+
+# Prebuild Voices Pack
+ITA Voices Pack for OpenTx 2.1.9
+https://github.com/LucaBertuolo/Opentx-Voices-Creator/blob/master/OpenTX_TaranisPlus_2.1.9.zip
